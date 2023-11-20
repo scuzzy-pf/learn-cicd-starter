@@ -1,6 +1,8 @@
 # learn-cicd-starter (Notely)
 
-![code coverage badge](https://github.com/scuzzy-pf/learn-cicd-starter/workflows/ci/badge.svg)
+![ci badge](https://github.com/scuzzy-pf/learn-cicd-starter/workflows/ci/badge.svg)
+![cd badge](https://github.com/scuzzy-pf/learn-cicd-starter/workflows/cd/badge.svg)
+
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
