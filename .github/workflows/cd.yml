@@ -18,8 +18,8 @@ jobs:
       - name: build app
         run: ./scripts/buildprod.sh
 
-      - id: 'auth'
-      uses: 'google-github-actions/auth@v1'
+      - id: auth
+      uses: google-github-actions/auth@v1
       with:
         credentials_json: '${{ secrets.GCP_CREDENTIALS }}'
 
